@@ -1,2 +1,3 @@
-MESTASPACE Jakub Nietupski
+# MESTASPACE Jakub Nietupski
+
 IT Consulting Services
